@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+verificacao*.md
+test_calculos.py
+pesquisa_encargos.md
+ARQUITETURA.md
